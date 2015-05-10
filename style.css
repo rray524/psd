@@ -1,0 +1,107 @@
+/* Rahul Ray;id-1377 */
+/* Coded for homework */
+*{margin:0;padding:0; }
+/***************************======|||header part|||=====*****************************************/
+
+header{background:#FF5959;width:100%;height:97px; }
+.logo{padding:27px; }
+.text h1{font-size:32px; font-weight:lighter;margin-top:-4px;font-family:Quicksand;}
+.text p{margin-left:-53px;margin-top: 23px;color:#FFFFFF;font-family:Quicksand;font-weight:bold; }
+.logo img{float:left;margin-left:185px; }
+.text{float:left; margin-left:9px;}
+.text h1{font-family:Quicksand;font-size:29px;height:10px;color:#fff; }
+
+.menu_bar{margin-left:607px;list-style:none;font-family:Quicksand;font-weight:bold;font-size:15px; }
+.menu_bar li{margin-left:30px;margin-top:-15px; }
+.menu_bar li a{padding:7px;text-decoration:none;color:#fff; }
+.menu_bar li a:hover{background:#FC7D7D;border-radius:10px; }
+
+.one{float:left; }
+.two{float:left; }
+.three{float:left; }
+.four{float:left; }
+.five{float:left; }
+.six{float:left; }
+
+/***************************======|||main_content|||=====*****************************************/
+.main_content{background:#FFFFFF;height:450px;width:100%;}
+.button{margin-left:187px;margin-top:311px;float:left; }
+.btn_one{background:#FF5959;border-radius:10px;height:40px;width:150px;color:#fff;font-family:Quicksand;font-weight:bold;border:none; float:left;}
+.btn_two{background:#FFFFFF;border-radius:10px;height:40px;width:150px;border:2px solid #FF5959;margin-left:13px; }
+.main_content img{margin-top:102px;margin-left:186px;}
+
+/***************************======|||Our services|||=====*****************************************/
+.our_services{background:#E8E8E8;height:505px;width:100%; }
+.services_text{margin-left:515px;margin-top: -21px;}
+.our_services h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:30px; }
+.hori{background:#C6C6C6;height:1px;width:147px;color:#C6C6C6;border-top:none;float:left;border-left:none; }
+.disc1{float:left;margin-left: 5px;margin-top: 9px;color:#0F0708; }
+.hori2{background:#C6C6C6;height:1px;width:147px;color:#C6C6C6;border-top:none;float:left;margin-left:6px;border-left:none; }
+
+.services_list{margin-top:73px;margin-left:0%;width:100% }
+
+.services_one{width:25%;float:left;margin-left:6%; }
+.services_one img{margin-left:33%; }
+.services_one h4{text-align:center;Quicksand;font-weight:lighter; }
+.services_one p{text-align:justify; text-justify:inter-word;font-family:sans-serif;font-weight:lighter;font-size:smaller;padding:6px;}
+
+.services_two{width:25%;float:left;margin-left:6.5%;  }
+.services_two img{margin-left:33%; }
+.services_two h4{text-align:center;Quicksand;font-weight:lighter; }
+.services_two p{text-align:justify; text-justify:inter-word;font-family:sans-serif;font-weight:lighter;font-size:smaller;padding:6px;}
+
+.services_three{width:25%;margin-left:69%;  }
+.services_three img{margin-left:33%; }
+.services_three h4{text-align:center;Quicksand;font-weight:lighter; }
+.services_three p{text-align:justify;text-justify:inter-word;font-family:sans-serif;font-weight:lighter;font-size:smaller;padding:6px;}
+
+/***************************======|||Our portfolio|||=====*****************************************/
+.portfolio{background:#FF5959;width:100%;height:622px; margin-top: -19px; }
+.portfolio_text{margin-left:515px;margin-top: -21px;}
+.portfolio h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:30px;color:#fff;margin-left:255px; }
+.hori3{background:#fff;height:1px;width:147px;color:#fff;border-top:none;float:left;border-left:none; }
+.disc2{float:left;margin-left: 5px;margin-top: 9px;color:#fff; }
+.hori4{background:#fff;height:1px;width:147px;color:#fff;border-top:none;float:left;margin-left:6px;border-left:none; }
+
+.portfolio_body{width:80%; }
+.images{margin-left:135px; }
+.image_one{float:left;margin-top:20px;float:left; margin-left:132px;}
+.image_two{float:right;margin-top:20px;margin-left:12px;float:left; }
+.image_three{ }
+.image_four{margin-left:9px; }
+.image_five{margin-left:8px; }
+.image_six{margin-left:9px; }
+.images_extra{float:left; margin-left:132px;margin-top:28px;}
+
+
+/***************************======|||Our Team|||=====*****************************************/
+
+.team{background:#E8E8E8;width:100%;height:394px; margin-top: -19px; }
+.team_text{margin-left:515px;margin-top: -21px;}
+.team h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:30px;color:#2C2C2C;margin-left:-2px; }
+.hori5{background:#fff;height:1px;width:147px;color:#2C2C2C;border-top:none;float:left;border-left:none; }
+.disc3{float:left;margin-left: 5px;margin-top: 9px;color:#fff; }
+.hori6{background:#fff;height:1px;width:147px;color:#2C2C2C;border-top:none;float:left;margin-left:6px;border-left:none; }
+
+.circle_list{width:90%;float:left;margin-top:15px;margin-left: 189px;}
+.circle_one{width:20%;float:left;text-align:center;  }
+.circle_two{width:20%;float:left;text-align:center;  }
+.circle_three{width:20%;float:left;text-align:center; }
+.circle_four{width:20%;float:left;text-align:center;}
+
+
+/***************************======|||Latest news||=====*****************************************/
+.latest_news{background:#FF5959;width:100%;height:600px; margin-top: -19px; }
+.news_text{margin-left:515px;margin-top: -21px;}
+.latest_news h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:30px;color:#fff;margin-left:-2px; }
+.hori7{background:#fff;height:1px;width:147px;color:#2C2C2C;border-top:none;float:left;border-left:none; }
+.disc4{float:left;margin-left: 5px;margin-top: 9px;color:#fff; }
+.hori8{background:#fff;height:1px;width:147px;color:#2C2C2C;border-top:none;float:left;margin-left:6px;border-left:none; }
+
+.latest_news_list{width:90%;float:left;font-family:Myriad Pro;margin-left: 213px;margin-top:24px; }
+.latest_news_one{color:#fff;width:25%;float:left;height:300px;}
+.latest_news_one p{text-wrap:normal; font-size:smaller; }
+.latest_news_two{color:#fff;width:25%;float:left;height:300px;margin-left:5px;  }
+.latest_news_two p{text-wrap:normal; font-size:smaller; }
+.latest_news_three{color:#fff;width:25%;float:left;height:300px;margin-left:5px;  }
+.latest_news_three p{text-wrap:normal; font-size:smaller; }
