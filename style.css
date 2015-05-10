@@ -3,8 +3,8 @@
 *{margin:0;padding:0; }
 /***************************======|||header part|||=====*****************************************/
 
-header{background:#FF5959;width:100%;height:97px; }
-.logo{padding:27px; }
+header{background:#FF5959;width:100%;height:84px; }
+.logo{padding:17px; }
 .text h1{font-size:32px; font-weight:lighter;margin-top:-4px;font-family:Quicksand;}
 .text p{margin-left:-53px;margin-top: 23px;color:#FFFFFF;font-family:Quicksand;font-weight:bold; }
 .logo img{float:left;margin-left:185px; }
@@ -33,7 +33,7 @@ header{background:#FF5959;width:100%;height:97px; }
 /***************************======|||Our services|||=====*****************************************/
 .our_services{background:#E8E8E8;height:505px;width:100%; }
 .services_text{margin-left:515px;margin-top: -21px;}
-.our_services h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:30px; }
+.our_services h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:17px; }
 .hori{background:#C6C6C6;height:1px;width:147px;color:#C6C6C6;border-top:none;float:left;border-left:none; }
 .disc1{float:left;margin-left: 5px;margin-top: 9px;color:#0F0708; }
 .hori2{background:#C6C6C6;height:1px;width:147px;color:#C6C6C6;border-top:none;float:left;margin-left:6px;border-left:none; }
@@ -58,7 +58,7 @@ header{background:#FF5959;width:100%;height:97px; }
 /***************************======|||Our portfolio|||=====*****************************************/
 .portfolio{background:#FF5959;width:100%;height:622px; margin-top: -19px; }
 .portfolio_text{margin-left:515px;margin-top: -21px;}
-.portfolio h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:30px;color:#fff;margin-left:255px; }
+.portfolio h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:11px;color:#fff;margin-left:255px; }
 .hori3{background:#fff;height:1px;width:147px;color:#fff;border-top:none;float:left;border-left:none; }
 .disc2{float:left;margin-left: 5px;margin-top: 9px;color:#fff; }
 .hori4{background:#fff;height:1px;width:147px;color:#fff;border-top:none;float:left;margin-left:6px;border-left:none; }
@@ -78,7 +78,7 @@ header{background:#FF5959;width:100%;height:97px; }
 
 .team{background:#E8E8E8;width:100%;height:394px; margin-top: -19px; }
 .team_text{margin-left:515px;margin-top: -21px;}
-.team h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:30px;color:#2C2C2C;margin-left:-2px; }
+.team h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:12px;color:#2C2C2C;margin-left:-2px; }
 .hori5{background:#fff;height:1px;width:147px;color:#2C2C2C;border-top:none;float:left;border-left:none; }
 .disc3{float:left;margin-left: 5px;margin-top: 9px;color:#fff; }
 .hori6{background:#fff;height:1px;width:147px;color:#2C2C2C;border-top:none;float:left;margin-left:6px;border-left:none; }
@@ -93,7 +93,7 @@ header{background:#FF5959;width:100%;height:97px; }
 /***************************======|||Latest news||=====*****************************************/
 .latest_news{background:#FF5959;width:100%;height:600px; margin-top: -19px; }
 .news_text{margin-left:515px;margin-top: -21px;}
-.latest_news h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:30px;color:#fff;margin-left:-2px; }
+.latest_news h2{text-align:center;font-family:Quicksand;font-weight:lighter;padding:12px;color:#fff;margin-left:-2px; }
 .hori7{background:#fff;height:1px;width:147px;color:#2C2C2C;border-top:none;float:left;border-left:none; }
 .disc4{float:left;margin-left: 5px;margin-top: 9px;color:#fff; }
 .hori8{background:#fff;height:1px;width:147px;color:#2C2C2C;border-top:none;float:left;margin-left:6px;border-left:none; }
